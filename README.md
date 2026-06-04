@@ -2,7 +2,7 @@
 
 A RESTful API (Backend) for managing a personal contact directory, built with Spring Boot. Supports creating, viewing, searching, updating, and deleting contacts.
 
-## Technology Stack
+## Tech Stack
 
 - Java 21
 - Spring Boot 3.5.14 (Spring Web, Bean Validation)
